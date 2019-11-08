@@ -8,11 +8,10 @@ Notice: If you are willing to translate chinese, then your original text must co
 ### Summarize
 This function can make a summary of an article or some paragraphs.
 Notice: The text to be processed must contain at least 3 complete sentences.
-
-
-
-
-
+### Sentiment analyse
+This function analyse the sentiment of text imput. This fucntion returns a number between -1 to 1, in which -1 represnts negative and 1 represnts positive.
+### Keyword extraction
+This function extracts the top3 keywords of the text inpute and returns them.
 
 ### Spell correction
 Spell correction requires the user to type a paragraph of text, correct the wrong spelling, and tell the user which words in the paragraph are correctly spelled.
